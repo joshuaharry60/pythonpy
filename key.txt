@@ -1,0 +1,8 @@
+API Key
+AIzaSyCq8ITt36czAo2oSMyRUqdSnQhr3rW17eQ
+Name
+Gemini API Key for AI project
+Project name
+projects/443925886809
+Project number
+443925886809
