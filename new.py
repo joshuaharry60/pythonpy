@@ -1,0 +1,12 @@
+import os
+os.system("mkdir folderforfile")
+print("folderforfile created")
+os.chdir("folderforfile")
+print(os.getcwd())
+os.system("type nul > file.txt")
+print("file.txt created", os.getcwd())
+os.system("echo 'this is the file' > file.txt")
+print("echo successful")
+os.system("type file.txt")
+print(os.getcwd())
+os.mkdir("thisisyou")
